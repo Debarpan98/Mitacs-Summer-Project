@@ -3,7 +3,7 @@ Automatic segmentation of Hepatocellular carcinoma based on Deep learning and Co
 All codes are written in python and executed in the Graham cluster of Compute Canada via SHARCNET.
 
 The Whole Slide Images (WSI) of the liver and their corresponding masks are firstly downsampled and chopped up into smaller images each of size 256 X 256 pixels.
-The generate_slices.py script is used to downsample and slice the WSI images given in SVS format after convertin them into grayscale and
+The generate_slices.py script is used to downsample and slice the WSI images given in SVS format after converting them into grayscale and
 the generate_mask_patches.py is used to downsample and slice their corresponding masks.
 
 The main.py script is used to train the U-net framework and calculate the test accuracy of the trained network.
