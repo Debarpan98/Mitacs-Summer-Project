@@ -1,4 +1,4 @@
-# Mitacs-Summer-Project
+# Unet segmentation of Hepatocellular Carcinoma
 Automatic segmentation of Hepatocellular carcinoma based on Deep learning and Convolutional Neural Networks : This project was done during my Mitacs GRI, 2019 under the supervision of Dr. Eran Ukwatta at University of Guelph.
 All codes are written in python and executed in the Graham cluster of Compute Canada via SHARCNET.
 
