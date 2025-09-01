@@ -16,3 +16,8 @@ The rest of the python scripts provide the required functions to the above three
 [process_results](process_results.py) and [helpers](helpers.py) help in saving the training, predicted and expected images in the desired format.
 
 The .sh files are used to submit the scripts to the Graham cluster as jobs to get them executed.
+
+# CEPS poster
+
+The results of this project were presented at the CEPS poster day at University of Guelph
+![poster](<CEPS Poster_Mitacs GRI.jpg>)
