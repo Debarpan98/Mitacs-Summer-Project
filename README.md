@@ -21,4 +21,4 @@ The .sh files are used to submit the scripts to the Graham cluster as jobs to ge
 
 The results of this project were presented at the CEPS poster day at University of Guelph
 
-![poster](<CEPS Poster_Mitacs GRI.jpg>)
+![poster](<CEPSPoster_Mitacs GRI.jpg>)
